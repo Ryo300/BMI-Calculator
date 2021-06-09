@@ -1,5 +1,4 @@
-# BMI-Calculator
-Android mobile app that is meant as a companion to monitor one's health by using Body Mass Index (BMI) with a built-in diet suggestion. Developed for a mobile programming class with a classmate using Android Studio.
+# BMI Calculator
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54411533/121343094-87531a80-c94c-11eb-8fa0-cbafa4efed03.png" width="276" height="598" />
